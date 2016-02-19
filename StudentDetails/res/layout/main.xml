@@ -93,6 +93,6 @@
 		    android:layout_height="wrap_content"
 		    android:layout_x="129dp"
 		    android:layout_y="402dp"
-		    android:text="contacts" />
+		    android:text="contacts list" />
 
 </AbsoluteLayout>

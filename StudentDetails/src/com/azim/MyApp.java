@@ -35,6 +35,7 @@ public class MyApp extends Activity implements OnClickListener, LocationListener
 	Location location; // location
 	double latitude; // latitude
 	double longitude; // longitude
+	//longitude and lattitude
 
 	/** Called when the activity is first created. */
 	@Override
